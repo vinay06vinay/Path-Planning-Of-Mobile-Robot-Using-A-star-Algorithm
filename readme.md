@@ -52,15 +52,27 @@ Any Library not present can be by typing below command in terminal window using 
 
 4. Once the code is run, a few information about the code is printed on the console and the cv2 visualisation video is recorded and saved
 5. Video will be saved under the name "A-Star.avi". Alternatively, you can find the video in below links
-    TestCase1 Video : https://drive.google.com/file/d/1FZHrR5yEz_0Bz4RUl9DOmRtuZJ68GbDo/view?usp=sharing
-    TestCase2 Video : https://drive.google.com/file/d/1wkxxXue-OS3xE-1L-jHQshqVnFDqiDeJ/view?usp=sharing
+    - TestCase1 Video : https://drive.google.com/file/d/1FZHrR5yEz_0Bz4RUl9DOmRtuZJ68GbDo/view?usp=sharing
+    - TestCase2 Video : https://drive.google.com/file/d/1wkxxXue-OS3xE-1L-jHQshqVnFDqiDeJ/view?usp=sharing
 6. If Using, VSCode or Spyder you will also see a final plot of the map using Opencv and Matplotlib
 
-Github Link: 
 
 
-## Dijkstra Planner
 
-https://user-images.githubusercontent.com/55183448/224559896-3334a93f-4d05-4bd0-b373-4af2589c2400.mp4
+## A-star Planner
+
+
+1. Test Case-1 Visualisation
+https://user-images.githubusercontent.com/55183448/226474005-b2cbdba2-6782-43bd-b1b8-78671fd023eb.mp4
+
+2.Test Case 2 Visualisation
+
+
+https://user-images.githubusercontent.com/55183448/226474085-65094be3-400d-4c04-9849-9263b9bdb162.mp4
+
+
+
+
+
 
 
