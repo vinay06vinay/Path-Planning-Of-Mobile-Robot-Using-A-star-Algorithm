@@ -62,13 +62,10 @@ Any Library not present can be by typing below command in terminal window using 
 ## A-star Planner
 
 
-1. Test Case-1 Visualisation
-https://user-images.githubusercontent.com/55183448/226474005-b2cbdba2-6782-43bd-b1b8-78671fd023eb.mp4
-
-2.Test Case 2 Visualisation
 
 
-https://user-images.githubusercontent.com/55183448/226474085-65094be3-400d-4c04-9849-9263b9bdb162.mp4
+
+![Sample_plot](https://user-images.githubusercontent.com/55183448/226475006-e5c02808-b1dc-49a4-8979-3e692eb371ca.png)
 
 
 
